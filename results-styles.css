@@ -1,0 +1,16 @@
+body{
+    text-align:center;
+    
+    background: url("http://i.giphy.com/JDYaNuLNsFQ0o.gif") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.list-item{
+    padding:10px;
+    background:white;
+    border-radius: 10px;
+    margin:10px;
+}
